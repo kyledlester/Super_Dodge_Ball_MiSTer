@@ -1,6 +1,6 @@
 # Super Dodge Ball for MiSTer
 
-<!-- Screenshots: add title / gameplay images here. -->
+<img width="1024" height="766" alt="image" src="https://github.com/user-attachments/assets/7822b5c7-941e-4a5f-ab20-b673ab4b77aa" />
 
 A MiSTer FPGA core for Technos Japan's **Super Dodge Ball** (1987), the arcade original of the
 dodgeball game later known on the NES, and its Japanese release **Nekketsu Koukou Dodgeball Bu**. One
